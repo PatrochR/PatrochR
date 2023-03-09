@@ -11,5 +11,8 @@ PatrochR/PatrochR is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+### - Skills
+
+
 [![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,css,discord,dotnet,github,html,js,sqlite,visualstudio,vscode,postman)](https://skillicons.dev)
 
