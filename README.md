@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 ### - Tools
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sqlite,postman&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,sqlite,postman&perline=5)](https://skillicons.dev)
 
 ### - Connection
 
-[![My Skills](https://skillicons.dev/icons?i=discord,instagram&perline=5)](https://skillicons.dev)
+[![Connection](https://skillicons.dev/icons?i=discord,instagram&perline=5)](https://skillicons.dev)
