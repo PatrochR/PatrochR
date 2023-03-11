@@ -24,4 +24,5 @@ You can click the Preview link to take a look at your changes.
 
 ### - Connection
 
-[![Connection](https://skillicons.dev/icons?i=discord,instagram&perline=5)](https://skillicons.dev)
+[![Connection](https://skillicons.dev/icons?i=discord)](https://discord.com/users/patroch#4555)
+[![Connection](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_rezacharsetad)
