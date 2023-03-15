@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 ### - Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,github,html,css,js&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,github,html,css,js)](https://skillicons.dev)
 
 ### - Tools
 
-[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,sqlite,postman&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,sqlite,postman)](https://skillicons.dev)
 
 ### - Connection
 
