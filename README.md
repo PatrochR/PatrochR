@@ -4,8 +4,11 @@
 <a align="center" href="https://github.com/iamdhanashri/iamdhanashri"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+BackEnd+Developer." /></a>
 </p>
 
+<h2 align="center">About me: 👨🏽‍💻</h2>
 
-Excited to learn new things
+- 🌍 I'm based in **Iran**
+- 🌱 I’m currently learning **BackEnd Developement**
+- 📫 How to reach me **rezacharsetad@outlook.com**
 
 moments.forEach(
        moment => new Happiness()
