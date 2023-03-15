@@ -25,16 +25,16 @@ PatrochR/PatrochR is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-### - Skills
+### - Skills -
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,github,html,css,js)](https://skillicons.dev)
 
-### - Tools
+### - Tools -
 
 [![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,sqlite,postman)](https://skillicons.dev)
 
-### - Connection
+### - Connection -
 
 [![Connection](https://skillicons.dev/icons?i=discord)](https://discord.com/users/patroch#4555)
 [![Connection](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_rezacharsetad)
